@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba Component <Images /> prueba render component 1`] = `
+<div>
+  <div
+    height="500"
+  >
+    <img
+      alt="imagenesProduct"
+      className="img"
+      height="480"
+      onClick={[Function]}
+      src="https:undefined"
+    />
+    <button
+      className="btn btn-primary btn-block mt-3 ml-2"
+    >
+       Agregar a la bolsa 
+    </button>
+  </div>
+</div>
+`;

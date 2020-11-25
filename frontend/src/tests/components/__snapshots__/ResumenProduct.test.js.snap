@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en componente <ResumenProduct /> prueba renderizado correcto 1`] = `
+<div>
+  <div
+    className="spinner-border"
+    role="status"
+  >
+    <span
+      className="sr-only"
+    >
+      Loading...
+    </span>
+  </div>
+</div>
+`;

@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prouebas en <Garantia /> Renderizado de <Garantia /> correcto 1`] = `
+<div
+  className="background-garantia description-font"
+>
+  <p
+    id="desc"
+  >
+    Descripcion garantia
+  </p>
+  <div
+    className="row"
+  >
+    <div
+      className="col"
+    >
+      <div
+        className="form-group form-check"
+      >
+        <input
+          className="form-check-input"
+          id="exampleCheck1"
+          type="checkbox"
+        />
+        <label
+          className="form-check-label"
+          htmlFor="exampleCheck1"
+        >
+          Elegir Garantia
+        </label>
+      </div>
+    </div>
+    <div
+      className="col"
+    >
+      <p
+        id="price"
+      >
+        $40.990
+      </p>
+    </div>
+  </div>
+</div>
+`;

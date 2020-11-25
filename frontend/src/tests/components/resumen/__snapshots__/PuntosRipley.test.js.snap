@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <PuntosRipley /> Probando renderizacion en PuntosRipley.js  1`] = `
+<div
+  className="row description-font background-puntos"
+>
+  <div
+    className="col "
+  >
+    Con tarjeta Ripley acumulas
+  </div>
+  <div
+    className="col"
+  >
+    <strong>
+      5000
+    </strong>
+     puntos
+  </div>
+</div>
+`;

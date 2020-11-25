@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <Envio.js /> Debe renderizar <Envio.js /> correctamente 1`] = `
+<Fragment>
+  <div
+    className="row box-envio"
+  >
+    <div
+      className="col"
+    >
+      <AiFillHome
+        className="mt-2"
+        color="green"
+        size="50"
+      />
+    </div>
+    <div
+      className=" col-10 price-font"
+    >
+      Despacho a domicilio
+      <p
+        className="envio-font"
+        id="DomicilioText"
+      >
+        Disponible
+      </p>
+    </div>
+  </div>
+  <div
+    className="row box-envio"
+  >
+    <div
+      className="col"
+    >
+      <FaStore
+        className="mt-2"
+        color="green"
+        size="50"
+      />
+    </div>
+    <div
+      className=" col-10 price-font"
+    >
+      Retiro en tienda
+      <p
+        className="envio-font"
+        id="TiendaText"
+      >
+        Disponible
+      </p>
+    </div>
+  </div>
+</Fragment>
+`;

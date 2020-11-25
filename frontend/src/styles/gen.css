@@ -1,0 +1,93 @@
+.title{
+    font-family: Montserrat, Helvetica, Arial, sans-serif;;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.sku-font{
+    font-family: Montserrat, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: #999999;
+    line-height: 17px;
+
+}
+
+.description-font{
+    font-family: Montserrat, Helvetica, Arial, sans-serif;
+    font-size: 19px;
+    line-height: 21px;
+    color: #6a6a6a;
+}
+
+.best-price-font{
+    font-family: Montserrat, Helvetica, Arial, sans-serif;
+    font-size: 19px;
+    line-height: 28px;
+    font-weight: 600;
+    color: #e75353;
+
+}
+
+.price-font{
+    font-family: Montserrat, Helvetica, Arial, sans-serif;
+    font-size: 19px;
+    line-height: 28px;
+    font-weight: 600;
+    color: #999999;
+}
+.envio-font{
+    font-family: Montserrat, Helvetica, Arial, sans-serif;
+    font-size: 19px;
+    line-height: 28px;
+    font-weight: 600;
+    color: #54b268;
+}
+.envio-font-false{
+    font-family: Montserrat, Helvetica, Arial, sans-serif;
+    font-size: 19px;
+    line-height: 28px;
+    font-weight: 600;
+    color: #e75353;
+}
+
+.box-envio{
+    background-color: #f8f8f8;
+    padding: 8px;
+    margin-top: 8px;
+}
+
+.discount-font-porcentage{
+    padding: 5px;
+    width: min-content;
+    background-color: #e75353 ;
+    color: white;
+}
+.shopp-box{
+    border-radius: 1em;
+    padding: 10px;
+    width: min-content;
+    background-color: #e75353 ;
+    color: white;
+}
+.background-puntos{
+    background-color: #f7f6fc;
+    padding: 10px;
+}
+
+.background-garantia{
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f9f4ff;
+}
+
+.img:hover{
+    transition-duration: 1000ms;
+    transform:scale(1.10);
+    cursor: pointer;
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+nav{
+    max-height: 70px;
+    background-color: black;
+}

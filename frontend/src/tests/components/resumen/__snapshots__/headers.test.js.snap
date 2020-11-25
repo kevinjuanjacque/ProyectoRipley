@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas a <Headers /> Prueba de renderizado del Headers.js 1`] = `
+<div>
+  <h1
+    className="title"
+  >
+    nombre del producto
+  </h1>
+  <small
+    className="sku-font"
+  >
+    SKU: 
+    202002020
+  </small>
+  <p
+    className="description-font"
+  >
+    descripcion del producto
+  </p>
+</div>
+`;

@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas del componente <Prices /> Probando render con offert en props 1`] = `
+<div>
+  <div
+    className="row best-price-font"
+  >
+    <div
+      className="col"
+    >
+      <span
+        id="precio"
+      >
+        Internet
+      </span>
+    </div>
+    <div
+      className="col"
+    >
+      <span>
+         
+        $699.990
+         
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Pruebas del componente <Prices /> Probando render sin offert en props 1`] = `
+<div>
+  <div
+    className="row best-price-font"
+  >
+    <div
+      className="col"
+    >
+      <span
+        id="precio"
+      >
+        Internet
+      </span>
+    </div>
+    <div
+      className="col"
+    >
+      <span>
+         
+        $699.990
+         
+      </span>
+    </div>
+  </div>
+</div>
+`;
