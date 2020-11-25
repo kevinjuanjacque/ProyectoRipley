@@ -7,7 +7,7 @@ const FetchResumenProduct = () => {
     });
 
     useEffect(() => {
-        fetch('https://proyectoripleypractica.herokuapp.com/product/resumen',{
+        fetch('http://localhost:4000/product/resumen',{
             method:'GET'
         }).then(res=>res.json()).then(result=>{
             setFetchResumen({loading:false,resp:result.body});
@@ -23,7 +23,7 @@ const FetchImagenesProduct = () => {
     });
 
     useEffect(() => {
-        fetch('https://proyectoripleypractica.herokuapp.com/product/images',{
+        fetch('http://localhost:4000/product/images',{
             method:'GET'
         }).then(res=>res.json()).then(result=>{
             setFetchImg({loading:false,resp:result.imagenes});

@@ -5,7 +5,6 @@ const cors =require('cors');
 const router = require('./router/productRouter');
 
 app.use(cors());
-app.use(morgan("dev"));
 app.use(express.json());
 app.use('/product',router);
 console.log(__dirname+'/frontend/build')
