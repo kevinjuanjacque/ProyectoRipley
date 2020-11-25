@@ -9,7 +9,7 @@ app.use(morgan("dev"));
 app.use(express.json());
 app.use('/product',router);
 console.log(__dirname+'/frontend/build')
-app.use('/', express.static(__dirname.replace('backend','frontend/build')));
+app.use('/', express.static(__dirname+'/frontend/build'));
 
 const port = process.env.PORT || '4000'
 app.listen(port,()=>{
